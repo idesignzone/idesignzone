@@ -1,0 +1,15 @@
+{
+  "name": "idesignzone-website",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "@nuxt/ui": "^4.4.0",
+    "nuxt": "4.3.1",
+    "splitting": "^1.0.6"
+  }
+}
